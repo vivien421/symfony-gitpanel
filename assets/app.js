@@ -1,3 +1,3 @@
-import './styles/home.css';
+import './styles/app.css';
 
 console.log('Hello! 🎉');
